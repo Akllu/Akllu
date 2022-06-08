@@ -1,7 +1,7 @@
 ## Hi there, I'm Aleksi 👋 
 
 - :briefcase: Software developer trainee at Pinja Group
-- :mortar_board: Second year Information Technology student at Oulu University of Applied Sciences.
+- :mortar_board: Information Technology student at Oulu University of Applied Sciences.
 
 
 ### Languages and Tools:
@@ -15,6 +15,7 @@
 <img align="left" alt="Java" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="MySQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="PostgreSQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="MongoDB" width="34px" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_256x256.png" />
 <img align="left" alt="Git" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="34px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -25,13 +26,16 @@
 
 ---
 
-### Currently learning:
+### Currently using:
 
-<img align="left" alt="Flutter" width="34px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" />
-<img align="left" alt="Dart" width="34px" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" />
-<img align="left" alt="Kotlin" width="34px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
+<img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="C#" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="GraphQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="MongoDB" width="34px" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_256x256.png" />
+<img align="left" alt="SQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
 
 <br />
 <br />
