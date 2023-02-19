@@ -1,6 +1,6 @@
 ## Hi there, I'm Aleksi 👋 
 
-- :briefcase: Software developer trainee at Pinja Group
+- :briefcase: Software developer at Pinja Group
 - :mortar_board: Information Technology student at Oulu University of Applied Sciences.
 
 
