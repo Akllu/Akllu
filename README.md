@@ -1,6 +1,6 @@
 ## Hi there, I'm Aleksi 👋 
 
-- :briefcase: Junior Software Developer at Pinja Group
+- :briefcase: Software Designer at Solita
 - :mortar_board: Bachelor of Engineering.
 
 
